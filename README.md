@@ -1,1 +1,1 @@
-# QlikCloudRESTAPI
+# Qlik Cloud REST API
